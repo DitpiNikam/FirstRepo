@@ -1,2 +1,2 @@
 # FirstRepo
-I'm a 10 year old programmer from Indiaq
+I'm a 10 year old programmer from India
